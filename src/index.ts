@@ -5,3 +5,4 @@ export { deriveNavigationMemoizedBuffer } from './features/navigation-derive-mem
 export { normalizeOrdersMemoizedBuffer } from './features/orders-normalize-memoized-buffer';
 export { selectPricingMemoizedBuffer } from './features/pricing-select-memoized-buffer';
 export { groupSearchMemoizedBuffer } from './features/search-group-memoized-buffer';
+export { reduceSessionsMemoizedBuffer } from './features/sessions-reduce-memoized-buffer';
