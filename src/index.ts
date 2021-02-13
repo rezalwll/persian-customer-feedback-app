@@ -6,3 +6,5 @@ export { normalizeOrdersMemoizedBuffer } from './features/orders-normalize-memoi
 export { selectPricingMemoizedBuffer } from './features/pricing-select-memoized-buffer';
 export { groupSearchMemoizedBuffer } from './features/search-group-memoized-buffer';
 export { reduceSessionsMemoizedBuffer } from './features/sessions-reduce-memoized-buffer';
+export { measureShipmentsMemoizedBuffer } from './features/shipments-measure-memoized-buffer';
+export { ShipmentsMeasureMemoizedBufferCard } from './components/ShipmentsMeasureMemoizedBufferCard';
