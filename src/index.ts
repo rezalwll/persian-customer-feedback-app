@@ -8,3 +8,4 @@ export { groupSearchMemoizedBuffer } from './features/search-group-memoized-buff
 export { reduceSessionsMemoizedBuffer } from './features/sessions-reduce-memoized-buffer';
 export { measureShipmentsMemoizedBuffer } from './features/shipments-measure-memoized-buffer';
 export { ShipmentsMeasureMemoizedBufferCard } from './components/ShipmentsMeasureMemoizedBufferCard';
+export { scheduleStateMemoizedBuffer } from './features/state-schedule-memoized-buffer';
