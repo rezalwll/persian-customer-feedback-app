@@ -9,3 +9,4 @@ export { reduceSessionsMemoizedBuffer } from './features/sessions-reduce-memoize
 export { measureShipmentsMemoizedBuffer } from './features/shipments-measure-memoized-buffer';
 export { ShipmentsMeasureMemoizedBufferCard } from './components/ShipmentsMeasureMemoizedBufferCard';
 export { scheduleStateMemoizedBuffer } from './features/state-schedule-memoized-buffer';
+export { deriveSuppliersMemoizedBuffer } from './features/suppliers-derive-memoized-buffer';
