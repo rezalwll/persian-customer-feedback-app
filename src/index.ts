@@ -10,3 +10,4 @@ export { measureShipmentsMemoizedBuffer } from './features/shipments-measure-mem
 export { ShipmentsMeasureMemoizedBufferCard } from './components/ShipmentsMeasureMemoizedBufferCard';
 export { scheduleStateMemoizedBuffer } from './features/state-schedule-memoized-buffer';
 export { deriveSuppliersMemoizedBuffer } from './features/suppliers-derive-memoized-buffer';
+export { summarizeTeamsMemoizedBuffer } from './features/teams-summarize-memoized-buffer';
