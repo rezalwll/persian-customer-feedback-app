@@ -11,3 +11,4 @@ export { ShipmentsMeasureMemoizedBufferCard } from './components/ShipmentsMeasur
 export { scheduleStateMemoizedBuffer } from './features/state-schedule-memoized-buffer';
 export { deriveSuppliersMemoizedBuffer } from './features/suppliers-derive-memoized-buffer';
 export { summarizeTeamsMemoizedBuffer } from './features/teams-summarize-memoized-buffer';
+export { filterTelemetryMemoizedBuffer } from './features/telemetry-filter-memoized-buffer';
