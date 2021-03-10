@@ -12,3 +12,4 @@ export { scheduleStateMemoizedBuffer } from './features/state-schedule-memoized-
 export { deriveSuppliersMemoizedBuffer } from './features/suppliers-derive-memoized-buffer';
 export { summarizeTeamsMemoizedBuffer } from './features/teams-summarize-memoized-buffer';
 export { filterTelemetryMemoizedBuffer } from './features/telemetry-filter-memoized-buffer';
+export { calculateWorkflowsMemoizedBuffer } from './features/workflows-calculate-memoized-buffer';
