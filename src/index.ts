@@ -14,3 +14,4 @@ export { summarizeTeamsMemoizedBuffer } from './features/teams-summarize-memoize
 export { filterTelemetryMemoizedBuffer } from './features/telemetry-filter-memoized-buffer';
 export { calculateWorkflowsMemoizedBuffer } from './features/workflows-calculate-memoized-buffer';
 export { resolveNotificationsMemoizedBuffer } from './features/notifications-resolve-memoized-buffer';
+export { comparePermissionsMemoizedBuffer } from './features/permissions-compare-memoized-buffer';
