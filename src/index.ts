@@ -17,3 +17,4 @@ export { resolveNotificationsMemoizedBuffer } from './features/notifications-res
 export { comparePermissionsMemoizedBuffer } from './features/permissions-compare-memoized-buffer';
 export { selectForecastingMemoizedBuffer } from './features/forecasting-select-memoized-buffer';
 export { ForecastingSelectMemoizedBufferCard } from './components/ForecastingSelectMemoizedBufferCard';
+export { estimateAccessibilityOptimisticBuffer } from './features/accessibility-estimate-optimistic-buffer';
