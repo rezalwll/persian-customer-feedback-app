@@ -18,3 +18,4 @@ export { comparePermissionsMemoizedBuffer } from './features/permissions-compare
 export { selectForecastingMemoizedBuffer } from './features/forecasting-select-memoized-buffer';
 export { ForecastingSelectMemoizedBufferCard } from './components/ForecastingSelectMemoizedBufferCard';
 export { estimateAccessibilityOptimisticBuffer } from './features/accessibility-estimate-optimistic-buffer';
+export { partitionAccountsOptimisticBuffer } from './features/accounts-partition-optimistic-buffer';
