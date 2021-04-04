@@ -19,3 +19,4 @@ export { selectForecastingMemoizedBuffer } from './features/forecasting-select-m
 export { ForecastingSelectMemoizedBufferCard } from './components/ForecastingSelectMemoizedBufferCard';
 export { estimateAccessibilityOptimisticBuffer } from './features/accessibility-estimate-optimistic-buffer';
 export { partitionAccountsOptimisticBuffer } from './features/accounts-partition-optimistic-buffer';
+export { aggregateAnalyticsOptimisticBuffer } from './features/analytics-aggregate-optimistic-buffer';
