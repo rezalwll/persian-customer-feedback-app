@@ -20,3 +20,4 @@ export { ForecastingSelectMemoizedBufferCard } from './components/ForecastingSel
 export { estimateAccessibilityOptimisticBuffer } from './features/accessibility-estimate-optimistic-buffer';
 export { partitionAccountsOptimisticBuffer } from './features/accounts-partition-optimistic-buffer';
 export { aggregateAnalyticsOptimisticBuffer } from './features/analytics-aggregate-optimistic-buffer';
+export { formatCatalogOptimisticBuffer } from './features/catalog-format-optimistic-buffer';
