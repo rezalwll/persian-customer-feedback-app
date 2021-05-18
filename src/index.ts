@@ -23,3 +23,4 @@ export { aggregateAnalyticsOptimisticBuffer } from './features/analytics-aggrega
 export { formatCatalogOptimisticBuffer } from './features/catalog-format-optimistic-buffer';
 export { classifyCustomersOptimisticBuffer } from './features/customers-classify-optimistic-buffer';
 export { CustomersClassifyOptimisticBufferCard } from './components/CustomersClassifyOptimisticBufferCard';
+export { indexDeliveryOptimisticBuffer } from './features/delivery-index-optimistic-buffer';
