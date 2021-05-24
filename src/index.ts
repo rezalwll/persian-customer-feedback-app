@@ -24,3 +24,4 @@ export { formatCatalogOptimisticBuffer } from './features/catalog-format-optimis
 export { classifyCustomersOptimisticBuffer } from './features/customers-classify-optimistic-buffer';
 export { CustomersClassifyOptimisticBufferCard } from './components/CustomersClassifyOptimisticBufferCard';
 export { indexDeliveryOptimisticBuffer } from './features/delivery-index-optimistic-buffer';
+export { resolveFiltersOptimisticBuffer } from './features/filters-resolve-optimistic-buffer';
