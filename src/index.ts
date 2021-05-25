@@ -25,3 +25,4 @@ export { classifyCustomersOptimisticBuffer } from './features/customers-classify
 export { CustomersClassifyOptimisticBufferCard } from './components/CustomersClassifyOptimisticBufferCard';
 export { indexDeliveryOptimisticBuffer } from './features/delivery-index-optimistic-buffer';
 export { resolveFiltersOptimisticBuffer } from './features/filters-resolve-optimistic-buffer';
+export { deriveFormsOptimisticBuffer } from './features/forms-derive-optimistic-buffer';
