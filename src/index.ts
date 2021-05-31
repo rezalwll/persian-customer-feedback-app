@@ -27,3 +27,5 @@ export { indexDeliveryOptimisticBuffer } from './features/delivery-index-optimis
 export { resolveFiltersOptimisticBuffer } from './features/filters-resolve-optimistic-buffer';
 export { deriveFormsOptimisticBuffer } from './features/forms-derive-optimistic-buffer';
 export { normalizeFulfillmentOptimisticBuffer } from './features/fulfillment-normalize-optimistic-buffer';
+export { filterLayoutOptimisticBuffer } from './features/layout-filter-optimistic-buffer';
+export { LayoutFilterOptimisticBufferCard } from './components/LayoutFilterOptimisticBufferCard';
