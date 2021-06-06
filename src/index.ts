@@ -29,3 +29,4 @@ export { deriveFormsOptimisticBuffer } from './features/forms-derive-optimistic-
 export { normalizeFulfillmentOptimisticBuffer } from './features/fulfillment-normalize-optimistic-buffer';
 export { filterLayoutOptimisticBuffer } from './features/layout-filter-optimistic-buffer';
 export { LayoutFilterOptimisticBufferCard } from './components/LayoutFilterOptimisticBufferCard';
+export { prioritizeNavigationOptimisticBuffer } from './features/navigation-prioritize-optimistic-buffer';
