@@ -30,3 +30,4 @@ export { normalizeFulfillmentOptimisticBuffer } from './features/fulfillment-nor
 export { filterLayoutOptimisticBuffer } from './features/layout-filter-optimistic-buffer';
 export { LayoutFilterOptimisticBufferCard } from './components/LayoutFilterOptimisticBufferCard';
 export { prioritizeNavigationOptimisticBuffer } from './features/navigation-prioritize-optimistic-buffer';
+export { groupPricingOptimisticBuffer } from './features/pricing-group-optimistic-buffer';
