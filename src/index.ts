@@ -31,3 +31,4 @@ export { filterLayoutOptimisticBuffer } from './features/layout-filter-optimisti
 export { LayoutFilterOptimisticBufferCard } from './components/LayoutFilterOptimisticBufferCard';
 export { prioritizeNavigationOptimisticBuffer } from './features/navigation-prioritize-optimistic-buffer';
 export { groupPricingOptimisticBuffer } from './features/pricing-group-optimistic-buffer';
+export { reduceProductsOptimisticBuffer } from './features/products-reduce-optimistic-buffer';
