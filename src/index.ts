@@ -32,3 +32,5 @@ export { LayoutFilterOptimisticBufferCard } from './components/LayoutFilterOptim
 export { prioritizeNavigationOptimisticBuffer } from './features/navigation-prioritize-optimistic-buffer';
 export { groupPricingOptimisticBuffer } from './features/pricing-group-optimistic-buffer';
 export { reduceProductsOptimisticBuffer } from './features/products-reduce-optimistic-buffer';
+export { measureRoutingOptimisticBuffer } from './features/routing-measure-optimistic-buffer';
+export { RoutingMeasureOptimisticBufferCard } from './components/RoutingMeasureOptimisticBufferCard';
