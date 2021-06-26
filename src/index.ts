@@ -34,3 +34,4 @@ export { groupPricingOptimisticBuffer } from './features/pricing-group-optimisti
 export { reduceProductsOptimisticBuffer } from './features/products-reduce-optimistic-buffer';
 export { measureRoutingOptimisticBuffer } from './features/routing-measure-optimistic-buffer';
 export { RoutingMeasureOptimisticBufferCard } from './components/RoutingMeasureOptimisticBufferCard';
+export { deriveSessionsOptimisticBuffer } from './features/sessions-derive-optimistic-buffer';
