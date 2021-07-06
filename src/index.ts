@@ -36,3 +36,4 @@ export { measureRoutingOptimisticBuffer } from './features/routing-measure-optim
 export { RoutingMeasureOptimisticBufferCard } from './components/RoutingMeasureOptimisticBufferCard';
 export { deriveSessionsOptimisticBuffer } from './features/sessions-derive-optimistic-buffer';
 export { summarizeShipmentsOptimisticBuffer } from './features/shipments-summarize-optimistic-buffer';
+export { filterStateOptimisticBuffer } from './features/state-filter-optimistic-buffer';
