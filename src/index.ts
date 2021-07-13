@@ -39,3 +39,4 @@ export { summarizeShipmentsOptimisticBuffer } from './features/shipments-summari
 export { filterStateOptimisticBuffer } from './features/state-filter-optimistic-buffer';
 export { rankSuppliersOptimisticBuffer } from './features/suppliers-rank-optimistic-buffer';
 export { SuppliersRankOptimisticBufferCard } from './components/SuppliersRankOptimisticBufferCard';
+export { calculateTablesOptimisticBuffer } from './features/tables-calculate-optimistic-buffer';
