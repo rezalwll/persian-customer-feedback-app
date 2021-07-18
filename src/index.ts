@@ -40,3 +40,4 @@ export { filterStateOptimisticBuffer } from './features/state-filter-optimistic-
 export { rankSuppliersOptimisticBuffer } from './features/suppliers-rank-optimistic-buffer';
 export { SuppliersRankOptimisticBufferCard } from './components/SuppliersRankOptimisticBufferCard';
 export { calculateTablesOptimisticBuffer } from './features/tables-calculate-optimistic-buffer';
+export { groupTeamsOptimisticBuffer } from './features/teams-group-optimistic-buffer';
