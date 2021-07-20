@@ -41,3 +41,4 @@ export { rankSuppliersOptimisticBuffer } from './features/suppliers-rank-optimis
 export { SuppliersRankOptimisticBufferCard } from './components/SuppliersRankOptimisticBufferCard';
 export { calculateTablesOptimisticBuffer } from './features/tables-calculate-optimistic-buffer';
 export { groupTeamsOptimisticBuffer } from './features/teams-group-optimistic-buffer';
+export { resolveTelemetryOptimisticBuffer } from './features/telemetry-resolve-optimistic-buffer';
