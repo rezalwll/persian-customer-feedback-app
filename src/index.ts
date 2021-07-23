@@ -43,3 +43,4 @@ export { calculateTablesOptimisticBuffer } from './features/tables-calculate-opt
 export { groupTeamsOptimisticBuffer } from './features/teams-group-optimistic-buffer';
 export { resolveTelemetryOptimisticBuffer } from './features/telemetry-resolve-optimistic-buffer';
 export { compareValidationOptimisticBuffer } from './features/validation-compare-optimistic-buffer';
+export { measureWorkflowsOptimisticBuffer } from './features/workflows-measure-optimistic-buffer';
