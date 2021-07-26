@@ -44,3 +44,5 @@ export { groupTeamsOptimisticBuffer } from './features/teams-group-optimistic-bu
 export { resolveTelemetryOptimisticBuffer } from './features/telemetry-resolve-optimistic-buffer';
 export { compareValidationOptimisticBuffer } from './features/validation-compare-optimistic-buffer';
 export { measureWorkflowsOptimisticBuffer } from './features/workflows-measure-optimistic-buffer';
+export { selectWorkspaceOptimisticBuffer } from './features/workspace-select-optimistic-buffer';
+export { WorkspaceSelectOptimisticBufferCard } from './components/WorkspaceSelectOptimisticBufferCard';
