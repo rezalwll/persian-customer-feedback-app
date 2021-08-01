@@ -46,3 +46,4 @@ export { compareValidationOptimisticBuffer } from './features/validation-compare
 export { measureWorkflowsOptimisticBuffer } from './features/workflows-measure-optimistic-buffer';
 export { selectWorkspaceOptimisticBuffer } from './features/workspace-select-optimistic-buffer';
 export { WorkspaceSelectOptimisticBufferCard } from './components/WorkspaceSelectOptimisticBufferCard';
+export { estimateNotificationsOptimisticBuffer } from './features/notifications-estimate-optimistic-buffer';
