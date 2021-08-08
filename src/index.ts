@@ -47,3 +47,4 @@ export { measureWorkflowsOptimisticBuffer } from './features/workflows-measure-o
 export { selectWorkspaceOptimisticBuffer } from './features/workspace-select-optimistic-buffer';
 export { WorkspaceSelectOptimisticBufferCard } from './components/WorkspaceSelectOptimisticBufferCard';
 export { estimateNotificationsOptimisticBuffer } from './features/notifications-estimate-optimistic-buffer';
+export { aggregateReturnsOptimisticBuffer } from './features/returns-aggregate-optimistic-buffer';
