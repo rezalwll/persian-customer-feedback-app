@@ -48,3 +48,4 @@ export { selectWorkspaceOptimisticBuffer } from './features/workspace-select-opt
 export { WorkspaceSelectOptimisticBufferCard } from './components/WorkspaceSelectOptimisticBufferCard';
 export { estimateNotificationsOptimisticBuffer } from './features/notifications-estimate-optimistic-buffer';
 export { aggregateReturnsOptimisticBuffer } from './features/returns-aggregate-optimistic-buffer';
+export { rankAccessibilityPagedBuffer } from './features/accessibility-rank-paged-buffer';
