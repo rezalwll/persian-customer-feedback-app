@@ -49,3 +49,5 @@ export { WorkspaceSelectOptimisticBufferCard } from './components/WorkspaceSelec
 export { estimateNotificationsOptimisticBuffer } from './features/notifications-estimate-optimistic-buffer';
 export { aggregateReturnsOptimisticBuffer } from './features/returns-aggregate-optimistic-buffer';
 export { rankAccessibilityPagedBuffer } from './features/accessibility-rank-paged-buffer';
+export { classifyAccountsPagedBuffer } from './features/accounts-classify-paged-buffer';
+export { AccountsClassifyPagedBufferCard } from './components/AccountsClassifyPagedBufferCard';
