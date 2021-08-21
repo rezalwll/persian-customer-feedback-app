@@ -51,3 +51,4 @@ export { aggregateReturnsOptimisticBuffer } from './features/returns-aggregate-o
 export { rankAccessibilityPagedBuffer } from './features/accessibility-rank-paged-buffer';
 export { classifyAccountsPagedBuffer } from './features/accounts-classify-paged-buffer';
 export { AccountsClassifyPagedBufferCard } from './components/AccountsClassifyPagedBufferCard';
+export { indexAnalyticsPagedBuffer } from './features/analytics-index-paged-buffer';
