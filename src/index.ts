@@ -54,3 +54,4 @@ export { AccountsClassifyPagedBufferCard } from './components/AccountsClassifyPa
 export { indexAnalyticsPagedBuffer } from './features/analytics-index-paged-buffer';
 export { deriveCheckoutPagedBuffer } from './features/checkout-derive-paged-buffer';
 export { normalizeCustomersPagedBuffer } from './features/customers-normalize-paged-buffer';
+export { selectDeliveryPagedBuffer } from './features/delivery-select-paged-buffer';
