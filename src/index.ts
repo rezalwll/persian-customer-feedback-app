@@ -55,3 +55,5 @@ export { indexAnalyticsPagedBuffer } from './features/analytics-index-paged-buff
 export { deriveCheckoutPagedBuffer } from './features/checkout-derive-paged-buffer';
 export { normalizeCustomersPagedBuffer } from './features/customers-normalize-paged-buffer';
 export { selectDeliveryPagedBuffer } from './features/delivery-select-paged-buffer';
+export { filterFiltersPagedBuffer } from './features/filters-filter-paged-buffer';
+export { FiltersFilterPagedBufferCard } from './components/FiltersFilterPagedBufferCard';
