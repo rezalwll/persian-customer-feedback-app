@@ -58,3 +58,4 @@ export { selectDeliveryPagedBuffer } from './features/delivery-select-paged-buff
 export { filterFiltersPagedBuffer } from './features/filters-filter-paged-buffer';
 export { FiltersFilterPagedBufferCard } from './components/FiltersFilterPagedBufferCard';
 export { prioritizeFormsPagedBuffer } from './features/forms-prioritize-paged-buffer';
+export { aggregateFulfillmentPagedBuffer } from './features/fulfillment-aggregate-paged-buffer';
