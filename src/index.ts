@@ -60,3 +60,4 @@ export { FiltersFilterPagedBufferCard } from './components/FiltersFilterPagedBuf
 export { prioritizeFormsPagedBuffer } from './features/forms-prioritize-paged-buffer';
 export { aggregateFulfillmentPagedBuffer } from './features/fulfillment-aggregate-paged-buffer';
 export { groupInventoryPagedBuffer } from './features/inventory-group-paged-buffer';
+export { reduceLayoutPagedBuffer } from './features/layout-reduce-paged-buffer';
