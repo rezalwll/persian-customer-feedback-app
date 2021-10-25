@@ -61,3 +61,4 @@ export { prioritizeFormsPagedBuffer } from './features/forms-prioritize-paged-bu
 export { aggregateFulfillmentPagedBuffer } from './features/fulfillment-aggregate-paged-buffer';
 export { groupInventoryPagedBuffer } from './features/inventory-group-paged-buffer';
 export { reduceLayoutPagedBuffer } from './features/layout-reduce-paged-buffer';
+export { schedulePricingPagedBuffer } from './features/pricing-schedule-paged-buffer';
