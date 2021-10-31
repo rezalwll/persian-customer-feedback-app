@@ -62,3 +62,4 @@ export { aggregateFulfillmentPagedBuffer } from './features/fulfillment-aggregat
 export { groupInventoryPagedBuffer } from './features/inventory-group-paged-buffer';
 export { reduceLayoutPagedBuffer } from './features/layout-reduce-paged-buffer';
 export { schedulePricingPagedBuffer } from './features/pricing-schedule-paged-buffer';
+export { summarizeRoutingPagedBuffer } from './features/routing-summarize-paged-buffer';
