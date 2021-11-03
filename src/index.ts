@@ -63,3 +63,4 @@ export { groupInventoryPagedBuffer } from './features/inventory-group-paged-buff
 export { reduceLayoutPagedBuffer } from './features/layout-reduce-paged-buffer';
 export { schedulePricingPagedBuffer } from './features/pricing-schedule-paged-buffer';
 export { summarizeRoutingPagedBuffer } from './features/routing-summarize-paged-buffer';
+export { filterSearchPagedBuffer } from './features/search-filter-paged-buffer';
