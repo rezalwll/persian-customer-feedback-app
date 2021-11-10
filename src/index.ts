@@ -66,3 +66,4 @@ export { summarizeRoutingPagedBuffer } from './features/routing-summarize-paged-
 export { filterSearchPagedBuffer } from './features/search-filter-paged-buffer';
 export { rankSessionsPagedBuffer } from './features/sessions-rank-paged-buffer';
 export { SessionsRankPagedBufferCard } from './components/SessionsRankPagedBufferCard';
+export { calculateSettingsPagedBuffer } from './features/settings-calculate-paged-buffer';
