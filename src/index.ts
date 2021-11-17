@@ -68,3 +68,4 @@ export { rankSessionsPagedBuffer } from './features/sessions-rank-paged-buffer';
 export { SessionsRankPagedBufferCard } from './components/SessionsRankPagedBufferCard';
 export { calculateSettingsPagedBuffer } from './features/settings-calculate-paged-buffer';
 export { groupShipmentsPagedBuffer } from './features/shipments-group-paged-buffer';
+export { resolveStatePagedBuffer } from './features/state-resolve-paged-buffer';
