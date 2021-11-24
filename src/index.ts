@@ -70,3 +70,4 @@ export { calculateSettingsPagedBuffer } from './features/settings-calculate-page
 export { groupShipmentsPagedBuffer } from './features/shipments-group-paged-buffer';
 export { resolveStatePagedBuffer } from './features/state-resolve-paged-buffer';
 export { compareSuppliersPagedBuffer } from './features/suppliers-compare-paged-buffer';
+export { measureTablesPagedBuffer } from './features/tables-measure-paged-buffer';
