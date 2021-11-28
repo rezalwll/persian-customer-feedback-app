@@ -71,3 +71,5 @@ export { groupShipmentsPagedBuffer } from './features/shipments-group-paged-buff
 export { resolveStatePagedBuffer } from './features/state-resolve-paged-buffer';
 export { compareSuppliersPagedBuffer } from './features/suppliers-compare-paged-buffer';
 export { measureTablesPagedBuffer } from './features/tables-measure-paged-buffer';
+export { selectTeamsPagedBuffer } from './features/teams-select-paged-buffer';
+export { TeamsSelectPagedBufferCard } from './components/TeamsSelectPagedBufferCard';
