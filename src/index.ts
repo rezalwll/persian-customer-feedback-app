@@ -73,3 +73,4 @@ export { compareSuppliersPagedBuffer } from './features/suppliers-compare-paged-
 export { measureTablesPagedBuffer } from './features/tables-measure-paged-buffer';
 export { selectTeamsPagedBuffer } from './features/teams-select-paged-buffer';
 export { TeamsSelectPagedBufferCard } from './components/TeamsSelectPagedBufferCard';
+export { aggregateWorkflowsPagedBuffer } from './features/workflows-aggregate-paged-buffer';
