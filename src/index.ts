@@ -75,3 +75,4 @@ export { selectTeamsPagedBuffer } from './features/teams-select-paged-buffer';
 export { TeamsSelectPagedBufferCard } from './components/TeamsSelectPagedBufferCard';
 export { aggregateWorkflowsPagedBuffer } from './features/workflows-aggregate-paged-buffer';
 export { formatWorkspacePagedBuffer } from './features/workspace-format-paged-buffer';
+export { rankNotificationsPagedBuffer } from './features/notifications-rank-paged-buffer';
