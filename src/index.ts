@@ -78,3 +78,4 @@ export { formatWorkspacePagedBuffer } from './features/workspace-format-paged-bu
 export { rankNotificationsPagedBuffer } from './features/notifications-rank-paged-buffer';
 export { classifyPermissionsPagedBuffer } from './features/permissions-classify-paged-buffer';
 export { PermissionsClassifyPagedBufferCard } from './components/PermissionsClassifyPagedBufferCard';
+export { indexReturnsPagedBuffer } from './features/returns-index-paged-buffer';
