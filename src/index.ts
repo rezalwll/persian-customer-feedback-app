@@ -76,3 +76,5 @@ export { TeamsSelectPagedBufferCard } from './components/TeamsSelectPagedBufferC
 export { aggregateWorkflowsPagedBuffer } from './features/workflows-aggregate-paged-buffer';
 export { formatWorkspacePagedBuffer } from './features/workspace-format-paged-buffer';
 export { rankNotificationsPagedBuffer } from './features/notifications-rank-paged-buffer';
+export { classifyPermissionsPagedBuffer } from './features/permissions-classify-paged-buffer';
+export { PermissionsClassifyPagedBufferCard } from './components/PermissionsClassifyPagedBufferCard';
