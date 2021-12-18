@@ -80,3 +80,4 @@ export { classifyPermissionsPagedBuffer } from './features/permissions-classify-
 export { PermissionsClassifyPagedBufferCard } from './components/PermissionsClassifyPagedBufferCard';
 export { indexReturnsPagedBuffer } from './features/returns-index-paged-buffer';
 export { resolveForecastingPagedBuffer } from './features/forecasting-resolve-paged-buffer';
+export { deriveAccessibilityPersistentBuffer } from './features/accessibility-derive-persistent-buffer';
