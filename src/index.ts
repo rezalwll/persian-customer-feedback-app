@@ -79,3 +79,4 @@ export { rankNotificationsPagedBuffer } from './features/notifications-rank-page
 export { classifyPermissionsPagedBuffer } from './features/permissions-classify-paged-buffer';
 export { PermissionsClassifyPagedBufferCard } from './components/PermissionsClassifyPagedBufferCard';
 export { indexReturnsPagedBuffer } from './features/returns-index-paged-buffer';
+export { resolveForecastingPagedBuffer } from './features/forecasting-resolve-paged-buffer';
