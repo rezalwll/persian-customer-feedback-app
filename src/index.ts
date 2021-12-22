@@ -82,3 +82,4 @@ export { indexReturnsPagedBuffer } from './features/returns-index-paged-buffer';
 export { resolveForecastingPagedBuffer } from './features/forecasting-resolve-paged-buffer';
 export { deriveAccessibilityPersistentBuffer } from './features/accessibility-derive-persistent-buffer';
 export { normalizeAccountsPersistentBuffer } from './features/accounts-normalize-persistent-buffer';
+export { selectAnalyticsPersistentBuffer } from './features/analytics-select-persistent-buffer';
