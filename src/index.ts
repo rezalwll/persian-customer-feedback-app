@@ -85,3 +85,4 @@ export { normalizeAccountsPersistentBuffer } from './features/accounts-normalize
 export { selectAnalyticsPersistentBuffer } from './features/analytics-select-persistent-buffer';
 export { prioritizeCheckoutPersistentBuffer } from './features/checkout-prioritize-persistent-buffer';
 export { aggregateCustomersPersistentBuffer } from './features/customers-aggregate-persistent-buffer';
+export { groupDeliveryPersistentBuffer } from './features/delivery-group-persistent-buffer';
