@@ -84,3 +84,4 @@ export { deriveAccessibilityPersistentBuffer } from './features/accessibility-de
 export { normalizeAccountsPersistentBuffer } from './features/accounts-normalize-persistent-buffer';
 export { selectAnalyticsPersistentBuffer } from './features/analytics-select-persistent-buffer';
 export { prioritizeCheckoutPersistentBuffer } from './features/checkout-prioritize-persistent-buffer';
+export { aggregateCustomersPersistentBuffer } from './features/customers-aggregate-persistent-buffer';
