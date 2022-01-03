@@ -86,3 +86,4 @@ export { selectAnalyticsPersistentBuffer } from './features/analytics-select-per
 export { prioritizeCheckoutPersistentBuffer } from './features/checkout-prioritize-persistent-buffer';
 export { aggregateCustomersPersistentBuffer } from './features/customers-aggregate-persistent-buffer';
 export { groupDeliveryPersistentBuffer } from './features/delivery-group-persistent-buffer';
+export { classifyFormsPersistentBuffer } from './features/forms-classify-persistent-buffer';
