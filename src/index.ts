@@ -87,3 +87,5 @@ export { prioritizeCheckoutPersistentBuffer } from './features/checkout-prioriti
 export { aggregateCustomersPersistentBuffer } from './features/customers-aggregate-persistent-buffer';
 export { groupDeliveryPersistentBuffer } from './features/delivery-group-persistent-buffer';
 export { classifyFormsPersistentBuffer } from './features/forms-classify-persistent-buffer';
+export { measureFulfillmentPersistentBuffer } from './features/fulfillment-measure-persistent-buffer';
+export { FulfillmentMeasurePersistentBufferCard } from './components/FulfillmentMeasurePersistentBufferCard';
