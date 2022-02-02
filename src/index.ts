@@ -90,3 +90,4 @@ export { classifyFormsPersistentBuffer } from './features/forms-classify-persist
 export { measureFulfillmentPersistentBuffer } from './features/fulfillment-measure-persistent-buffer';
 export { FulfillmentMeasurePersistentBufferCard } from './components/FulfillmentMeasurePersistentBufferCard';
 export { deriveLayoutPersistentBuffer } from './features/layout-derive-persistent-buffer';
+export { partitionNavigationPersistentBuffer } from './features/navigation-partition-persistent-buffer';
