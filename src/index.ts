@@ -91,3 +91,4 @@ export { measureFulfillmentPersistentBuffer } from './features/fulfillment-measu
 export { FulfillmentMeasurePersistentBufferCard } from './components/FulfillmentMeasurePersistentBufferCard';
 export { deriveLayoutPersistentBuffer } from './features/layout-derive-persistent-buffer';
 export { partitionNavigationPersistentBuffer } from './features/navigation-partition-persistent-buffer';
+export { summarizeOrdersPersistentBuffer } from './features/orders-summarize-persistent-buffer';
