@@ -92,3 +92,4 @@ export { FulfillmentMeasurePersistentBufferCard } from './components/Fulfillment
 export { deriveLayoutPersistentBuffer } from './features/layout-derive-persistent-buffer';
 export { partitionNavigationPersistentBuffer } from './features/navigation-partition-persistent-buffer';
 export { summarizeOrdersPersistentBuffer } from './features/orders-summarize-persistent-buffer';
+export { filterPricingPersistentBuffer } from './features/pricing-filter-persistent-buffer';
