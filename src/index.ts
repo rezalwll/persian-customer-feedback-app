@@ -93,3 +93,5 @@ export { deriveLayoutPersistentBuffer } from './features/layout-derive-persisten
 export { partitionNavigationPersistentBuffer } from './features/navigation-partition-persistent-buffer';
 export { summarizeOrdersPersistentBuffer } from './features/orders-summarize-persistent-buffer';
 export { filterPricingPersistentBuffer } from './features/pricing-filter-persistent-buffer';
+export { rankProductsPersistentBuffer } from './features/products-rank-persistent-buffer';
+export { ProductsRankPersistentBufferCard } from './components/ProductsRankPersistentBufferCard';
