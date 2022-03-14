@@ -95,3 +95,4 @@ export { summarizeOrdersPersistentBuffer } from './features/orders-summarize-per
 export { filterPricingPersistentBuffer } from './features/pricing-filter-persistent-buffer';
 export { rankProductsPersistentBuffer } from './features/products-rank-persistent-buffer';
 export { ProductsRankPersistentBufferCard } from './components/ProductsRankPersistentBufferCard';
+export { calculateReportsPersistentBuffer } from './features/reports-calculate-persistent-buffer';
