@@ -96,3 +96,4 @@ export { filterPricingPersistentBuffer } from './features/pricing-filter-persist
 export { rankProductsPersistentBuffer } from './features/products-rank-persistent-buffer';
 export { ProductsRankPersistentBufferCard } from './components/ProductsRankPersistentBufferCard';
 export { calculateReportsPersistentBuffer } from './features/reports-calculate-persistent-buffer';
+export { groupRoutingPersistentBuffer } from './features/routing-group-persistent-buffer';
