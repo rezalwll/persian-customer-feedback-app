@@ -99,3 +99,4 @@ export { calculateReportsPersistentBuffer } from './features/reports-calculate-p
 export { groupRoutingPersistentBuffer } from './features/routing-group-persistent-buffer';
 export { selectShipmentsPersistentBuffer } from './features/shipments-select-persistent-buffer';
 export { ShipmentsSelectPersistentBufferCard } from './components/ShipmentsSelectPersistentBufferCard';
+export { estimateStatePersistentBuffer } from './features/state-estimate-persistent-buffer';
