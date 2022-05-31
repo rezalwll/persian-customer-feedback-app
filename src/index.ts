@@ -100,3 +100,4 @@ export { groupRoutingPersistentBuffer } from './features/routing-group-persisten
 export { selectShipmentsPersistentBuffer } from './features/shipments-select-persistent-buffer';
 export { ShipmentsSelectPersistentBufferCard } from './components/ShipmentsSelectPersistentBufferCard';
 export { estimateStatePersistentBuffer } from './features/state-estimate-persistent-buffer';
+export { partitionSuppliersPersistentBuffer } from './features/suppliers-partition-persistent-buffer';
