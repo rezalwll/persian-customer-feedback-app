@@ -101,3 +101,4 @@ export { selectShipmentsPersistentBuffer } from './features/shipments-select-per
 export { ShipmentsSelectPersistentBufferCard } from './components/ShipmentsSelectPersistentBufferCard';
 export { estimateStatePersistentBuffer } from './features/state-estimate-persistent-buffer';
 export { partitionSuppliersPersistentBuffer } from './features/suppliers-partition-persistent-buffer';
+export { aggregateTablesPersistentBuffer } from './features/tables-aggregate-persistent-buffer';
