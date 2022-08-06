@@ -103,3 +103,5 @@ export { estimateStatePersistentBuffer } from './features/state-estimate-persist
 export { partitionSuppliersPersistentBuffer } from './features/suppliers-partition-persistent-buffer';
 export { aggregateTablesPersistentBuffer } from './features/tables-aggregate-persistent-buffer';
 export { formatTeamsPersistentBuffer } from './features/teams-format-persistent-buffer';
+export { classifyValidationPersistentBuffer } from './features/validation-classify-persistent-buffer';
+export { ValidationClassifyPersistentBufferCard } from './components/ValidationClassifyPersistentBufferCard';
