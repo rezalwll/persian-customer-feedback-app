@@ -106,3 +106,4 @@ export { formatTeamsPersistentBuffer } from './features/teams-format-persistent-
 export { classifyValidationPersistentBuffer } from './features/validation-classify-persistent-buffer';
 export { ValidationClassifyPersistentBufferCard } from './components/ValidationClassifyPersistentBufferCard';
 export { indexWorkflowsPersistentBuffer } from './features/workflows-index-persistent-buffer';
+export { resolveWorkspacePersistentBuffer } from './features/workspace-resolve-persistent-buffer';
