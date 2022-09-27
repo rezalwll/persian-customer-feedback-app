@@ -107,3 +107,4 @@ export { classifyValidationPersistentBuffer } from './features/validation-classi
 export { ValidationClassifyPersistentBufferCard } from './components/ValidationClassifyPersistentBufferCard';
 export { indexWorkflowsPersistentBuffer } from './features/workflows-index-persistent-buffer';
 export { resolveWorkspacePersistentBuffer } from './features/workspace-resolve-persistent-buffer';
+export { selectReturnsPersistentBuffer } from './features/returns-select-persistent-buffer';
