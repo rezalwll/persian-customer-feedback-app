@@ -108,3 +108,5 @@ export { ValidationClassifyPersistentBufferCard } from './components/ValidationC
 export { indexWorkflowsPersistentBuffer } from './features/workflows-index-persistent-buffer';
 export { resolveWorkspacePersistentBuffer } from './features/workspace-resolve-persistent-buffer';
 export { selectReturnsPersistentBuffer } from './features/returns-select-persistent-buffer';
+export { filterForecastingPersistentBuffer } from './features/forecasting-filter-persistent-buffer';
+export { ForecastingFilterPersistentBufferCard } from './components/ForecastingFilterPersistentBufferCard';
