@@ -110,3 +110,4 @@ export { resolveWorkspacePersistentBuffer } from './features/workspace-resolve-p
 export { selectReturnsPersistentBuffer } from './features/returns-select-persistent-buffer';
 export { filterForecastingPersistentBuffer } from './features/forecasting-filter-persistent-buffer';
 export { ForecastingFilterPersistentBufferCard } from './components/ForecastingFilterPersistentBufferCard';
+export { prioritizeAccessibilityPredictiveBuffer } from './features/accessibility-prioritize-predictive-buffer';
