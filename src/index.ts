@@ -111,3 +111,4 @@ export { selectReturnsPersistentBuffer } from './features/returns-select-persist
 export { filterForecastingPersistentBuffer } from './features/forecasting-filter-persistent-buffer';
 export { ForecastingFilterPersistentBufferCard } from './components/ForecastingFilterPersistentBufferCard';
 export { prioritizeAccessibilityPredictiveBuffer } from './features/accessibility-prioritize-predictive-buffer';
+export { aggregateAccountsPredictiveBuffer } from './features/accounts-aggregate-predictive-buffer';
