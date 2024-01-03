@@ -113,3 +113,4 @@ export { ForecastingFilterPersistentBufferCard } from './components/ForecastingF
 export { prioritizeAccessibilityPredictiveBuffer } from './features/accessibility-prioritize-predictive-buffer';
 export { aggregateAccountsPredictiveBuffer } from './features/accounts-aggregate-predictive-buffer';
 export { reduceCatalogPredictiveBuffer } from './features/catalog-reduce-predictive-buffer';
+export { classifyCheckoutPredictiveBuffer } from './features/checkout-classify-predictive-buffer';
