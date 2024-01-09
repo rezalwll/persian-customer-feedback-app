@@ -114,3 +114,5 @@ export { prioritizeAccessibilityPredictiveBuffer } from './features/accessibilit
 export { aggregateAccountsPredictiveBuffer } from './features/accounts-aggregate-predictive-buffer';
 export { reduceCatalogPredictiveBuffer } from './features/catalog-reduce-predictive-buffer';
 export { classifyCheckoutPredictiveBuffer } from './features/checkout-classify-predictive-buffer';
+export { measureCustomersPredictiveBuffer } from './features/customers-measure-predictive-buffer';
+export { CustomersMeasurePredictiveBufferCard } from './components/CustomersMeasurePredictiveBufferCard';
