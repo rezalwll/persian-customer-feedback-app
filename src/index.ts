@@ -118,3 +118,4 @@ export { measureCustomersPredictiveBuffer } from './features/customers-measure-p
 export { CustomersMeasurePredictiveBufferCard } from './components/CustomersMeasurePredictiveBufferCard';
 export { scheduleDeliveryPredictiveBuffer } from './features/delivery-schedule-predictive-buffer';
 export { deriveFiltersPredictiveBuffer } from './features/filters-derive-predictive-buffer';
+export { partitionFormsPredictiveBuffer } from './features/forms-partition-predictive-buffer';
