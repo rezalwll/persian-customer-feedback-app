@@ -120,3 +120,4 @@ export { scheduleDeliveryPredictiveBuffer } from './features/delivery-schedule-p
 export { deriveFiltersPredictiveBuffer } from './features/filters-derive-predictive-buffer';
 export { partitionFormsPredictiveBuffer } from './features/forms-partition-predictive-buffer';
 export { summarizeFulfillmentPredictiveBuffer } from './features/fulfillment-summarize-predictive-buffer';
+export { filterInventoryPredictiveBuffer } from './features/inventory-filter-predictive-buffer';
