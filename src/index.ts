@@ -121,3 +121,4 @@ export { deriveFiltersPredictiveBuffer } from './features/filters-derive-predict
 export { partitionFormsPredictiveBuffer } from './features/forms-partition-predictive-buffer';
 export { summarizeFulfillmentPredictiveBuffer } from './features/fulfillment-summarize-predictive-buffer';
 export { filterInventoryPredictiveBuffer } from './features/inventory-filter-predictive-buffer';
+export { groupOrdersPredictiveBuffer } from './features/orders-group-predictive-buffer';
