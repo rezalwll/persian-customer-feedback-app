@@ -123,3 +123,5 @@ export { summarizeFulfillmentPredictiveBuffer } from './features/fulfillment-sum
 export { filterInventoryPredictiveBuffer } from './features/inventory-filter-predictive-buffer';
 export { groupOrdersPredictiveBuffer } from './features/orders-group-predictive-buffer';
 export { compareProductsPredictiveBuffer } from './features/products-compare-predictive-buffer';
+export { selectRoutingPredictiveBuffer } from './features/routing-select-predictive-buffer';
+export { RoutingSelectPredictiveBufferCard } from './components/RoutingSelectPredictiveBufferCard';
