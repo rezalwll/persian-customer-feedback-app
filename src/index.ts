@@ -126,3 +126,4 @@ export { compareProductsPredictiveBuffer } from './features/products-compare-pre
 export { selectRoutingPredictiveBuffer } from './features/routing-select-predictive-buffer';
 export { RoutingSelectPredictiveBufferCard } from './components/RoutingSelectPredictiveBufferCard';
 export { estimateSearchPredictiveBuffer } from './features/search-estimate-predictive-buffer';
+export { partitionSessionsPredictiveBuffer } from './features/sessions-partition-predictive-buffer';
