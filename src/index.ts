@@ -128,3 +128,4 @@ export { RoutingSelectPredictiveBufferCard } from './components/RoutingSelectPre
 export { estimateSearchPredictiveBuffer } from './features/search-estimate-predictive-buffer';
 export { partitionSessionsPredictiveBuffer } from './features/sessions-partition-predictive-buffer';
 export { aggregateSettingsPredictiveBuffer } from './features/settings-aggregate-predictive-buffer';
+export { formatShipmentsPredictiveBuffer } from './features/shipments-format-predictive-buffer';
