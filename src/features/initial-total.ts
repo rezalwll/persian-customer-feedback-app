@@ -1,3 +1,5 @@
 export function calculateInitialTotal(values: readonly number[]): number {
-  return values.reduce((sum, value) => sum + value, 0);
+  let total = 0;
+  for (const value of values) total += value;
+  return total;
 }
